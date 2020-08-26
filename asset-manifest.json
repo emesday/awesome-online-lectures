@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/awesome-online-lectures/static/css/main.5f361e03.chunk.css",
+    "main.js": "/awesome-online-lectures/static/js/main.882fd209.chunk.js",
+    "main.js.map": "/awesome-online-lectures/static/js/main.882fd209.chunk.js.map",
+    "runtime-main.js": "/awesome-online-lectures/static/js/runtime-main.348269b6.js",
+    "runtime-main.js.map": "/awesome-online-lectures/static/js/runtime-main.348269b6.js.map",
+    "static/js/2.78497f56.chunk.js": "/awesome-online-lectures/static/js/2.78497f56.chunk.js",
+    "static/js/2.78497f56.chunk.js.map": "/awesome-online-lectures/static/js/2.78497f56.chunk.js.map",
+    "index.html": "/awesome-online-lectures/index.html",
+    "precache-manifest.38a99f72c9c0c61b31bdcd83b3d7c051.js": "/awesome-online-lectures/precache-manifest.38a99f72c9c0c61b31bdcd83b3d7c051.js",
+    "service-worker.js": "/awesome-online-lectures/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/awesome-online-lectures/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.78497f56.chunk.js.LICENSE.txt": "/awesome-online-lectures/static/js/2.78497f56.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/awesome-online-lectures/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.348269b6.js",
+    "static/js/2.78497f56.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.882fd209.chunk.js"
+  ]
+}
